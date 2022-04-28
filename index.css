@@ -1,0 +1,597 @@
+.top{
+    background-color: gray;
+    margin-top: -10px;
+    margin-left: -10px;
+    width: 1351px;
+    height: 80px;
+  }
+
+  .fintraklogo{
+    margin-top: 10px;
+    margin-left: 80px;
+    height: 50px;
+  }
+
+  .top a{
+    margin-top: 10px;
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+  
+  .top a:hover {
+    color: rgb(168, 163, 163);
+  }
+
+body{
+    height: 4830px;
+}
+
+.image{
+    position: relative;
+    color: white;
+}
+
+.craftimage{
+    width: 1351px;
+    height: 650px;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+.craft{
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000; 
+    width: 1200px;  
+}
+
+.dynamic{
+    position: absolute;
+    top: 380px;
+    left: 60px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100px; 
+    width: 500px;
+}
+
+.contactus{
+    position: absolute;
+    top: 550px;
+    left: 80px;
+    background-color: rgb(156, 8, 8);
+    border:rgb(156, 8, 8);
+    color: white;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    border-radius: 3px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.contactus:hover{
+    background-color: rgb(87, 5, 5);
+}
+
+.whoweare{
+    float: left;
+    margin-top: 25px;
+    margin-left: 110px;
+    border: 2px solid white;
+    width: 500px;
+    height: 400px;
+    font-family: Arial;
+    color: gray;
+}
+
+#head{
+    font-size: 25px;
+}
+
+#body{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 2;
+}
+
+.support{
+    margin-top: 50px;
+}
+
+.learnmore{
+    margin-top: 480px;
+    margin-left: -500px;
+    background-color: rgb(156, 8, 8);
+    border:rgb(156, 8, 8);
+    color: white;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    border-radius: 3px;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.learnmore:hover{
+    background-color: rgb(87, 5, 5);
+}
+
+.whoweareimage{
+    float: left;
+    margin-top: -515px;
+    margin-left: 800px;
+    border: 2px solid white;
+    width: 500px;
+    height: 500px;
+}
+
+.whatwedobestimage{
+    width: 1351px;
+    height: 320px;
+    margin-left: -10px;
+    margin-top: 90px;
+}
+
+.whatwedobest{
+    position: relative;
+    color: white;
+}
+
+.best{
+    position: absolute;
+    top: 130px;
+    left: 330px;  
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000; 
+}
+
+.customize{
+    position: absolute;
+    top: 270px;
+    left: 390px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100px; 
+    font-size: 22px;
+} 
+
+.package{
+    width: 1345px;
+    height: 530px;
+    margin-left: -8px;
+    border: 2px solid rgba(221, 217, 217, 0.973); 
+    background-color: rgba(221, 217, 217, 0.973);
+}
+
+.table{
+    color: rgb(204, 41, 8, 2);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-top: 80px;
+    margin-left: 180px;
+    width: 1000px;
+    height: 350px;
+}
+
+.miles{
+    width: 1345px;
+    height: 400px;
+    margin-left: -8px;
+    border: 2px solid rgb(66, 65, 65); 
+    background-color: rgb(66, 65, 65);
+}
+
+.milestone{
+    text-align: center;
+    margin-top: 25px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+}
+
+.progress{
+    margin-left: 130px;
+    color: white;
+}
+
+.projectbar{
+    border: 2px solid white;
+    border-radius: 5px;
+    width: 1050px;
+    height: 5px;
+    background-color: white;
+    margin-bottom: 50px;
+}
+
+.consultantsbar{
+    border: 2px solid white;
+    border-radius: 5px;
+    width: 1050px;
+    height: 5px;
+    background-color: white;
+    margin-bottom: 50px;
+}
+
+.satisfiedbar{
+    border: 2px solid white;
+    border-radius: 5px;
+    width: 1050px;
+    height: 5px;
+    background-color: white;
+}
+
+.why{
+    width: 1345px;
+    height: 300px;
+    margin-left: -8px;
+    border: 2px solid white; 
+    background-color: white;
+}
+
+.whypeople{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgb(66, 65, 65);
+    margin-top: 50px;
+}
+
+.table2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 180px;
+    width: 1000px;
+    height: 150px;
+    border: 2px solid white;
+}
+
+.whatwedobestimage2{
+    width: 1351px;
+    height: 230px;
+    margin-left: -10px;
+    margin-top: 90px;
+}
+
+.solution{
+    position: absolute;
+    top: 130px;
+    left: 300px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100px; 
+    font-size: 22px;
+    width: 800px;
+    height: 100px;
+    text-align: center;
+} 
+
+.team{
+    position: absolute;
+    top: 230px;
+    left: 300px; 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100px; 
+    font-size: 22px;
+    width: 800px;
+    height: 100px;
+}
+
+#client{
+    width: 1345px;
+    height: 200px;
+    margin-left: -8px;
+    margin-top: 40px;
+}
+
+.clients{
+    text-align: center;
+    font-size: 28px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(66, 65, 65)
+}
+
+.bankname ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.bankname ul li{
+    list-style: none;
+}
+
+.ladiesimage{
+    width: 1351px;
+    height: 600px;
+    margin-left: -10px;
+}
+
+.whatour{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 35px;
+    color: white;
+    margin-top: -550px; 
+}
+
+.aa{
+    position: absolute;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: rgb(66, 65, 65);
+    font-size: 18px;
+    width: 350px;
+    height: 400px;
+    margin-left: 100px;
+    background-color: #f8f9fa;
+}
+
+.a{
+    position: absolute;
+    width: 250px;
+    height: 350px;
+    margin-top: 15px;
+    margin-left: 44px;
+}
+
+.a1{
+    margin-top: 40px;
+}
+
+.a2{
+    margin-top: 70px;
+    font-weight: bold;
+}
+
+.bb{
+    position: absolute;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: rgb(66, 65, 65);
+    font-size: 18px;
+    width: 350px;
+    height: 300px;
+    margin-left: 500px;
+    background-color: #f8f9fa;
+}
+
+.b{
+    position: absolute;
+    width: 250px;
+    height: 350px;
+    margin-top: 15px;
+    margin-left: 44px; 
+}
+
+.b1{
+    margin-top: 40px;
+}
+
+.b2{
+    margin-top: 70px;
+    font-weight: bold;
+}
+
+.cc{
+    position: absolute;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: rgb(66, 65, 65);
+    font-size: 18px;
+    width: 350px;
+    height: 300px;
+    margin-left: 900px;
+    background-color: #f8f9fa;
+}
+
+.c{
+    position: absolute;
+    width: 250px;
+    height: 350px;
+    margin-top: 15px;
+    margin-left: 47px; 
+}
+
+.c1{
+    margin-top: 40px;
+}
+
+.c2{
+    margin-top: 200px;
+    font-weight: bold;
+}
+
+.request{
+    width: 1349px;
+    height: 220px;
+    margin-left: -8px;
+    margin-top: 508px;
+    background-color: rgba(221, 217, 217, 0.973);  
+    border: 2px solid rgba(221, 217, 217, 0.973); 
+}
+
+.requestfor{
+    margin-top: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    color: rgb(27, 27, 27);
+}
+
+.enterrequest{
+    margin-top: 50px;
+}
+
+.email{
+    width: 350px;
+    height: 60px;
+    border-radius: 3px;
+    font-size: 15px;
+    border: aliceblue;
+    background-color: aliceblue;
+    margin-left: 450px;
+}
+
+.send{
+    position: absolute;
+    left: 830px;
+    background-color: rgb(156, 8, 8);
+    border:rgb(156, 8, 8);
+    color: white;
+    width: 170px;
+    height: 60px;
+    text-align: center;
+    border-radius: 3px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.send:hover{
+    background-color: rgb(87, 5, 5);
+}
+
+#foot{
+    background-color: rgb(53, 51, 51); 
+    width: 1348px;
+    height: 450px;
+    margin-left: -8px; 
+}
+
+.foot1{
+    color: white; 
+    border: 2px solid rgb(53, 51, 51) ;
+    width: 650px;
+    margin-left: 80px;
+    height: 400px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.foot11{
+    border: 2px solid rgb(53, 51, 51);
+    width: 300px;
+    height: 400px;
+    margin-top: 50px;
+}
+
+.address{
+    border: 2px solid rgb(53, 51, 51);
+}
+
+.address2{
+    font-weight: lighter;
+}
+
+.contacts{
+    border: 2px solid rgb(53, 51, 51);
+    margin-top: 30px;
+}
+
+.contacts2{
+    font-weight: lighter;
+}
+
+.contacts3{
+    font-weight: lighter;
+    margin-top: -20px;
+}
+
+.contacts4{
+    font-weight: lighter;
+    margin-top: -20px;
+    margin-left: 60px;
+}
+
+.foot12{
+    border: 2px solid rgb(53, 51, 51);
+    width: 300px;
+    margin-left: 350px; 
+    margin-top: -400px;
+}
+
+.links{
+    border: 2px solid rgb(53, 51, 51);
+}
+
+.links2{
+    font-weight: lighter;
+}
+
+.feedback{
+    border: 2px solid rgb(53, 51, 51);
+    margin-top: 50px;
+}
+
+.feedback2{
+    font-weight: lighter;
+}
+
+.map{
+    margin-left: 700;
+    margin-top: -300px;
+    
+}
+
+#footer{
+    background-color: rgb(53, 51, 51);
+    width: 1346px;
+    height: 50px;
+    margin-left: -8px; 
+    border: 1px solid gray;
+    color: white; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.copyright{
+    margin-left: 80px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+
+/* .address{
+    border: 2px solid red;
+    width: 250px;
+    margin-left: 150px
+}
+
+.contacts{
+    border: 2px solid red;
+    width: 280px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.links{
+    border: 2px solid red;
+    width: 280px;
+    margin-left: 550px; 
+    margin-top: -300px; 
+}
+
+.feedback{
+    border: 2px solid red;
+    width: 280px;
+    margin-left: 550px; 
+    margin-top: 50px; 
+}
+
+.copyright{
+    border: 2px solid red;
+    width: 280px;
+    margin-left: 550px; 
+    margin-top: 250px;   
+}
